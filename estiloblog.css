@@ -1,0 +1,35 @@
+/* RESETEO PARÁMETROS*/
+/* *,*:before ,*:after {
+    margin:0;
+    padding:0;
+    outline:0;
+    text-decoration:none;
+    list-style:none;
+    box-sizing:border-box;
+}
+*/
+
+
+.blog{
+    margin:10px 0;
+    text-align:center;
+}
+.card{
+    margin-bottom:10px;
+}
+
+.img-logo{
+width:85px;
+}
+#contact{
+    font-size:.7rem;
+    
+}
+#espec{
+    font-size:0.9rem;
+}
+#derecho{
+    
+    height:3%;
+}
+

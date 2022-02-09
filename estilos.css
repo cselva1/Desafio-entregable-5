@@ -1,0 +1,45 @@
+/* RESETEO PARÁMETROS*/
+/* *,*:before ,*:after {
+    margin:0;
+    padding:0;
+    outline:0;
+    text-decoration:none;
+    list-style:none;
+    box-sizing:border-box;
+}
+*/
+
+
+
+.principal{
+   
+    margin:15px 0;
+}
+.excursion{
+    margin:15px 0;
+}
+.testimonio{
+    margin:15px 0;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+}
+.card {
+
+    text-align:center;
+}
+.img-logo{
+width:85px;
+}
+#contact{
+    font-size:.7rem;
+    
+}
+#espec{
+    font-size:0.9rem;
+}
+#derecho{
+    
+    height:3%;
+}
